@@ -43,12 +43,12 @@
         <!-- Member 2 -->
         <div class="col-md-4">
             <div class="card h-100 shadow-sm hover-card">
-                <img src="{{ asset('images/member2.jpg') }}" 
+                <img src="{{ asset('images/member2.jpeg') }}" 
                      class="card-img-top" 
                      alt="Member 2"
                      style="height: 300px; object-fit: cover;">
                 <div class="card-body text-center">
-                    <h4 class="card-title mb-2">Member Name 2</h4>
+                    <h4 class="card-title mb-2">Steve Demius</h4>
                     <p class="text-muted mb-3">Frontend Developer</p>
                     <p class="card-text mb-4">
                         Expert in creating beautiful and responsive user interfaces with modern frameworks.
