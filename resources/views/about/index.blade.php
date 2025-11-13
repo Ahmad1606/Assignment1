@@ -63,7 +63,7 @@
             </div>
         </div>
 
-        <!-- Member 3 -->
+        {{-- <!-- Member 3 -->
         <div class="col-md-4">
             <div class="card h-100 shadow-sm hover-card">
                 <img src="{{ asset('images/member3.jpg') }}" 
@@ -84,7 +84,7 @@
                     </a>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 
     <!-- Team Overview Section -->

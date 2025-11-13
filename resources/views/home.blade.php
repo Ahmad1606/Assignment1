@@ -7,7 +7,7 @@
     <!-- Hero Section -->
     <div class="row align-items-center">
         <div class="col-lg-6">
-            <h1 class="display-4 fw-bold mb-3">Welcome to Our Portfolio</h1>
+            <h1 class="display-4 fw-bold mb-3">Welcome to Our Portfolio G4</h1>
             <p class="lead text-muted mb-4">
                 Hello! We're a team of three passionate developers dedicated to creating beautiful and functional websites. 
                 Explore our work and get to know more about our team's skills and experience.
@@ -15,6 +15,23 @@
             <div class="d-flex gap-3">
                 <a href="{{ route('about') }}" class="btn btn-primary btn-lg">Learn More</a>
                 <a href="{{ route('contact') }}" class="btn btn-outline-secondary btn-lg">Get in Touch</a>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="card shadow-lg border-0">
+                <div class="container text-center">
+                <div class="row">
+                    <div class="col">
+                    AHMAD SAYUTI BIN HAMIDAN (CB23096)
+                    </div>
+                    <div class="col">
+                    STEVE DEMIUS (CB23111)
+                    </div>
+                    <div class="col">
+                    MUHAMMAD YASRIN BIN ROSALAN	(CB23102)
+                    </div>
+                </div>
+                </div>
             </div>
         </div>
     </div>
