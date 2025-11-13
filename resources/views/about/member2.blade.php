@@ -37,21 +37,10 @@
                 <div class="card-body p-4">
                     <h2 class="card-title mb-4">My Background</h2>
                     <p class="card-text">
-                        My journey into the world of technology has been one of growing fascination, and as a third-year 
-                        software engineering student, I've found my passion squarely in the dynamic field of web development. 
-                        While my studies cover the broad spectrum of software design, from data structures to algorithms, it's 
-                        the process of building applications for the web that truly captivates me.
-                    </p>
-                    <p class="card-text">
-                        My focus has naturally gravitated towards both the front-end and back-end. I've spent countless hours 
-                        diving into HTML, CSS, and JavaScript, the foundational pillars of the web. More recently, my coursework 
-                        and personal projects have led me to modern frameworks like Laravel and Flutter.
-                    </p>
-                    <p class="card-text mb-0">
-                        As I progress in my studies, I am eager to deepen my knowledge and apply these skills to real-world 
-                        challenges. The web is a platform that is constantly evolving, and I am excited to be part of the 
-                        generation of developers who will build its future, creating solutions that are accessible, scalable, 
-                        and impactful.
+                        As a third-year software engineering student, I’ve developed a strong passion for web development, 
+                        particularly in both front-end and back-end technologies. My journey has taken me from mastering HTML, 
+                        CSS, and JavaScript to exploring modern frameworks like Laravel and Flutter. I’m eager to continue honing 
+                        my skills and applying them to real-world projects, contributing to innovative, accessible, and scalable web solutions.
                     </p>
                 </div>
             </div>
@@ -78,13 +67,13 @@
                                 <li class="mb-2">
                                     <strong>JavaScript & ES6+:</strong>
                                     <div class="progress" style="height: 10px;">
-                                        <div class="progress-bar bg-success" style="width: 90%"></div>
+                                        <div class="progress-bar bg-success" style="width: 95%"></div>
                                     </div>
                                 </li>
                                 <li class="mb-2">
                                     <strong>Bootstrap & Tailwind:</strong>
                                     <div class="progress" style="height: 10px;">
-                                        <div class="progress-bar bg-success" style="width: 88%"></div>
+                                        <div class="progress-bar bg-success" style="width: 85%"></div>
                                     </div>
                                 </li>
                             </ul>
@@ -96,19 +85,19 @@
                                 <li class="mb-2">
                                     <strong>PHP & Laravel:</strong>
                                     <div class="progress" style="height: 10px;">
-                                        <div class="progress-bar bg-danger" style="width: 92%"></div>
+                                        <div class="progress-bar bg-danger" style="width: 90%"></div>
                                     </div>
                                 </li>
                                 <li class="mb-2">
                                     <strong>MySQL & PostgreSQL:</strong>
                                     <div class="progress" style="height: 10px;">
-                                        <div class="progress-bar bg-danger" style="width: 87%"></div>
+                                        <div class="progress-bar bg-danger" style="width: 90%"></div>
                                     </div>
                                 </li>
                                 <li class="mb-2">
                                     <strong>Git & Version Control:</strong>
                                     <div class="progress" style="height: 10px;">
-                                        <div class="progress-bar bg-warning" style="width: 93%"></div>
+                                        <div class="progress-bar bg-warning" style="width: 85%"></div>
                                     </div>
                                 </li>
                             </ul>
